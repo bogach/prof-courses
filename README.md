@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bogach/prof-courses.svg?branch=develop)](https://travis-ci.org/bogach/prof-courses)
+
 1. Порядок следования уроков и заданий определяется порядком классов внутри списка json
 `
 [ {}, {}, {}, {} ]

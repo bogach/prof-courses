@@ -1,0 +1,31 @@
+language: java
+jdk:
+  - oraclejdk8
+    
+script:
+  - sudo apt-get update -y && sudo apt-get install -y wget curl jq unzip
+  - chmod +x download_inspector.sh
+  - . ./download_inspector.sh && download $GITHUB_DEPLOY_TOKEN
+  - unzip inspector.zip
+  - ./inspector/bin/inspector CrashCourse
+  - ./inspector/bin/inspector DemoCourse
+  - ./inspector/bin/inspector StudyIntonation
+
+before_deploy:
+  - ./inspector/bin/inspector -info . $TRAVIS_TAG
+  - chmod 777 ${TRAVIS_BUILD_DIR}/info.json
+  - chmod 777 ${TRAVIS_BUILD_DIR}/CrashCourse.zip
+  - chmod 777 ${TRAVIS_BUILD_DIR}/DemoCourse.zip
+  - chmod 777 ${TRAVIS_BUILD_DIR}/StudyIntonation.zip
+  
+deploy:
+  provider: releases 
+  api_key: "$GITHUB_DEPLOY_TOKEN" 
+  file: 
+    - ${TRAVIS_BUILD_DIR}/info.json
+    - ${TRAVIS_BUILD_DIR}/CrashCourse.zip
+    - ${TRAVIS_BUILD_DIR}/DemoCourse.zip
+    - ${TRAVIS_BUILD_DIR}/StudyIntonation.zip
+  skip_cleanup: true 
+  on: 
+    tags: true

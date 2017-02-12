@@ -1,0 +1,41 @@
+{
+  "update": "16:09:48 16.02.2017",
+  "courses": [
+    {
+      "id": "crash_course_01",
+      "title": "Crash Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech.",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
+      "size": "423901",
+      "difficulty": "5",
+      "category": "Example",
+      "version": "v1.0",
+      "sha2_hash": "d378244531704d605f1135229a433281d7a594b1d7c5a1cb92bb5df219b958b",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.0/CrashCourse.zip"
+    },
+    {
+      "id": "demo_course_02",
+      "title": "Demo Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech.",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
+      "size": "423831",
+      "difficulty": "3",
+      "category": "Example",
+      "version": "v1.0",
+      "sha2_hash": "1aeeb222c8b2635f3d9353eb829427219ccebcddf7040cc13b8329e4af769e9",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.0/DemoCourse.zip"
+    },
+    {
+      "id": "StudyIntonation",
+      "title": "Study Intonation",
+      "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech.",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
+      "size": "2954075",
+      "difficulty": "1",
+      "category": "Everyday discourse",
+      "version": "v1.0",
+      "sha2_hash": "744c9caa20758629437f4c8c109076b3df5e563326bc815d51a34cef82d92",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.0/StudyIntonation.zip"
+    }
+  ]
+}
