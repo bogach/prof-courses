@@ -1,5 +1,6 @@
 /* Space out content a bit */
 body {
+    background-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -15,7 +16,7 @@ body {
 /* Custom page header */
 .header {
     padding-bottom: 20px;
-    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #eee;
 }
 
 /* Make the masthead heading the same height as the navigation */
@@ -29,7 +30,7 @@ body {
 .footer {
     padding-top: 19px;
     color: #777;
-    border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #eee;
 }
 
 /* Customize container */
@@ -39,15 +40,12 @@ body {
     }
 }
 
-.container-narrow > hr {
-    margin: 30px 0;
-}
-
 /* Main marketing message and sign up button */
 .jumbotron {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('../img/back.png') no-repeat center center;
+    /*background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('../img/jumbotron.png') no-repeat center center;*/
+    background: linear-gradient(rgba(160, 211, 242, 0.2), rgba(110, 142, 162, 0.4)), url('../img/jumbotron.png') no-repeat center center;
     background-size: cover;
-    height: 350px;
+    min-height: 350px;
     text-align: center;
     color: white;
     text-shadow: 1px 2px 3px black;
@@ -58,14 +56,16 @@ body {
     text-shadow: 1px 2px 5px black;
 }
 
-.jumbotron a {
+.jumbotron .btn {
+    position: relative;
+    margin-top: 80px;
+    padding: 15px 25px;
+    font-size: 24px;
     text-shadow: none;
 }
 
-.jumbotron .btn {
-    margin-top: 30px;
-    padding: 14px 24px;
-    font-size: 21px;
+.jumbotron .glyphicon {
+    font-size: 20px;
 }
 
 /* Supporting marketing content */
