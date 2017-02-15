@@ -40,6 +40,20 @@ body {
     }
 }
 
+.cover {
+    background: #337ab7;
+    background-size: cover;
+    min-height: 150px;
+    position: relative;
+}
+
+.cover img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /* Main marketing message and sign up button */
 .jumbotron {
     /*background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('../img/jumbotron.png') no-repeat center center;*/

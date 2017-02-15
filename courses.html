@@ -5,22 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="shortcut icon" type="image/png" href="img/icon.png">
 
-    <title>Professor Higgins</title>
+    <title>Courses - Professor Higgins</title>
 </head>
 <body>
 <div class="container">
     <div class="header clearfix">
         <nav>
             <ul class="nav nav-pills pull-right">
-                <li role="presentation" class="active"><a href="index.html">
+                <li role="presentation"><a href="index.html">
                     <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
                 </a></li>
                 <li role="presentation"><a href="download.html">
                     <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
                 </a></li>
-                <li role="presentation"><a href="courses.html">
+                <li role="presentation" class="active"><a href="courses.html">
                     <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
                 </a></li>
                 <li role="presentation"><a href="tutorials.html">
@@ -36,41 +35,18 @@
             </h3>
         </nav>
     </div>
-    <div class="jumbotron">
-        <h1>English Intonation Training</h1>
-        <p class="lead">Android application for English Intonation Training.</p>
-        <p><a class="btn btn-primary btn-lg" href="download.html" role="button">
-            <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
-        </a></p>
-    </div>
 
     <div class="page-header">
-        <h2>Improve Pronunciation
-            <small>through practicing</small>
+        <h2>Courses
+            <small>for learning</small>
         </h2>
     </div>
 
-    <div class="row marketing">
-        <div class="col-lg-4">
-            <img class="img-circle" src="img/listen.png" alt="Generic placeholder image" width="128" height="128">
-            <h2>Listen</h2>
-            <p>Listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen
-                listen listen listen listen listen listen listen listen listen.</p>
-        </div>
-        <div class="col-lg-4">
-            <img class="img-circle" src="img/speak.png" alt="Generic placeholder image" width="128" height="128">
-            <h2>Repeat</h2>
-            <p>Repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat repeat
-                repeat repeatvv repeat repeat repeatv repeat.</p>
-        </div>
-        <div class="col-lg-4">
-            <img class="img-circle" src="img/progress.png" alt="Generic placeholder image" width="128" height="128">
-            <h2>Improve</h2>
-            <p>Improve improve improve improve improve improve improve improve improve improve improve improve
-                improve.</p>
-        </div>
+
+    <div class="row">
     </div>
 </div>
+<p></p>
 <div class="container">
     <footer class="footer">
         <p>&copy; 2017 Professor Higgins</p>
@@ -78,5 +54,36 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+    $.getJSON("https://github.com/lamtev/prof-courses/releases/download/v5.0/info.json", function (data) {
+        var courses = [];
+        $.each(data.courses, function (index, course) {
+            var difficulty = '';
+            for (i = 0; i < course.difficulty; i++) {
+                difficulty += '<span class="glyphicon glyphicon-star"></span>';
+            }
+            for (i = 0; i < 5 - course.difficulty; i++) {
+                difficulty += '<span class="glyphicon glyphicon-star-empty"></span>'
+            }
+
+            var html = '<div class="col-sm-6 col-lg-6 col-md-6">' +
+                '<div class="thumbnail">' +
+                '<div class="cover"><img src="' + course.logo + '"alt="Course logo"></div>' +
+                '<div class="caption">' +
+                '<h4 class="pull-right">' + course.category + '</h4>' +
+                '<h4>' + course.title + '</h4>' +
+                '<p>' + course.description + '</p>' +
+                '<p>' + difficulty + ' Difficulty: ' + course.difficulty + '</p>' +
+                '</div>' +
+                '</div>' +
+                '</div>' +
+                '</div>';
+            courses.push(html);
+            courses.push(html);
+        });
+
+        $(courses.join("")).appendTo(".row");
+    });
+</script>
 </body>
 </html>
