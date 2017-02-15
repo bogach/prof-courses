@@ -1,29 +1,29 @@
 {
-  "update": "23:13:31.426 2017-02-08",
+  "update": "00:20:42 12.02.2017",
   "courses": [
     {
       "id": "crash_course_01",
       "title": "Ускоренный курс",
       "description": "Курс иллюстрирует предполагаемую структуру хранения курсов и не несет никакой педагогической ценности",
-      "logo_url": "https://github.com/lamtev/prof-courses/raw/master/CrashCourse/uk_flag.png",
+      "logo_url": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
       "size": 423664,
       "difficulty": 5,
-      "category": "example",
-      "version": "v4.0",
-      "sha2_hash": "28635eb6661b1d33cc38b7b4e7615729b11622d7d71c5bb9d9374b1c3912e",
-      "url": "https://github.com/lamtev/prof-courses/releases/download/v4.0/CrashCourse.zip"
+      "category": "Example",
+      "version": "v5.0",
+      "sha2_hash": "f655b952738a9b87815a31f4432e9c49f49853daf3dbaa78f1a27348ead9f3e",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v5.0/CrashCourse.zip"
     },
     {
       "id": "demo_course_02",
       "title": "Демо курс",
       "description": "Данный курс иллюстрирует предполагаемую структуру хранения курсов и не несет никакой педагогической ценности",
-      "logo_url": "https://github.com/lamtev/prof-courses/raw/master/DemoCourse/uk_flag.png",
+      "logo_url": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
       "size": 423593,
       "difficulty": 3,
       "category": "Example",
-      "version": "v4.0",
-      "sha2_hash": "a4489c3a89d09b2855c0cd1b4d9653332b63f11331eeda8f4849370bf8dc2",
-      "url": "https://github.com/lamtev/prof-courses/releases/download/v4.0/DemoCourse.zip"
+      "version": "v5.0",
+      "sha2_hash": "f57579ca8fbc4614b2e4f3e995b5142cfeb65a36315696c66e72e36d5d732a",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v5.0/DemoCourse.zip"
     }
   ]
 }
