@@ -1,3 +1,8 @@
+$.ajaxSetup({
+  headers : {
+    'Access-Control-Allow-Origin' : 'https://github.com'
+  }
+});
 $.getJSON('info.json', function (data) {
     var courses = [];
     $.each(data.courses, function (index, course) {
