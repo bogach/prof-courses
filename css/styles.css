@@ -115,10 +115,15 @@ body {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    margin-bottom: 30px;
 }
 
 .thumbnail .caption hr {
     margin: 10px 0;
+}
+
+.thumbnail .glyphicon {
+    font-size: 18px;
 }
 
 /* Responsive: Portrait tablets and up */
