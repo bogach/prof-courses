@@ -1,7 +1,7 @@
 $.ajaxSetup({
-  headers : {
-    'Access-Control-Allow-Origin' : 'https://github.com'
-  }
+    headers: {
+        'Access-Control-Allow-Origin': 'https://github.com'
+    }
 });
 $.getJSON('info.json', function (data) {
     var courses = [];
@@ -19,13 +19,13 @@ $.getJSON('info.json', function (data) {
             '<div class="caption">' +
             '<h4 class="pull-right">' + course.category + '</h4>' +
             '<h4>' + course.title + '</h4>' +
+            '<hr>' +
             '<p>' + course.description + '</p>' +
             '<p>' + difficulty + ' Difficulty: ' + course.difficulty + '</p>' +
             '</div>' +
             '</div>' +
             '</div>' +
             '</div>';
-        courses.push(html);
         courses.push(html);
     });
     $(courses.join("")).appendTo(".row");
