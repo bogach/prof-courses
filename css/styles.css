@@ -72,8 +72,7 @@ body {
 }
 
 .jumbotron .btn {
-    position: relative;
-    margin-top: 80px;
+    margin-top: 60px;
     padding: 15px 25px;
     font-size: 24px;
     text-shadow: none;
@@ -85,7 +84,7 @@ body {
 
 /* Supporting marketing content */
 .marketing {
-    margin: 40px 0;
+    margin-top: 40px;
     text-align: center;
 }
 
@@ -110,6 +109,10 @@ body {
     bottom: 20px;
 }
 
+.panel-heading .glyphicon {
+    font-size: 16px;
+}
+
 .row-eq-height {
     display: -webkit-box;
     display: -webkit-flex;
@@ -122,8 +125,12 @@ body {
     margin: 10px 0;
 }
 
-.thumbnail .glyphicon {
+.education {
     font-size: 18px;
+}
+
+.marg-top {
+    margin-top: 25px;
 }
 
 /* Responsive: Portrait tablets and up */

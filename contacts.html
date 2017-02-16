@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="shortcut icon" type="image/png" href="img/icon.png">
 
-    <title>Courses - Professor Higgins</title>
+    <title>Tutorials - Professor Higgins</title>
 </head>
 <body>
 <div class="container">
@@ -20,13 +20,13 @@
                 <li role="presentation"><a href="download.html">
                     <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
                 </a></li>
-                <li role="presentation" class="active"><a href="courses.html">
+                <li role="presentation"><a href="courses.html">
                     <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
                 </a></li>
                 <li role="presentation"><a href="tutorials.html">
                     <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
                 </a></li>
-                <li role="presentation"><a href="contacts.html">
+                <li role="presentation" class="active"><a href="contacts.html">
                     <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
                 </a></li>
             </ul>
@@ -38,10 +38,49 @@
     </div>
 
     <div class="page-header">
-        <h2 id="title">Courses </h2>
+        <h2> About
+            <small>Who We Are</small>
+        </h2>
     </div>
 
-    <div id="courses"></div>
+    <h3 class="text-center"><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Peter the Great Saint
+        Petersburg Polytechnic University</h3>
+    <div class="row marg-top">
+        <div class="col-md-5 ">
+            <img src="http://www.spbstu.ru/university/organizational-documents/corporate-identity/identity-files/logo_main_en.png"
+                 class="center-block">
+        </div>
+        <div class="col-md-7">
+            <h4><span class="text-muted">Institute of Computer Science and Technology</span></h4>
+            <h4><span class="text-muted">Department of Computer Systems & Software Engineering</span>
+            </h4>
+            <p class="text-muted"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                Polytechnicheskaya Street 21,
+                Saint Petersburg, 194021</p>
+        </div>
+    </div>
+
+    <div class="page-header">
+        <h2>Contact us
+            <small>Let's Get In Touch!</small>
+        </h2>
+    </div>
+
+    <form method="POST" action="http://formspree.io/vadik.dyachkov@gmail.com">
+        <div class="input-group">
+            <span class="input-group-addon" id="addon">@</span>
+            <input type="text" class="form-control" name="email" placeholder="Your email"
+                   aria-describedby="addon">
+        </div>
+        <p></p>
+        <div class="form-group">
+            <textarea class="form-control" id="message" rows="3" name="message"
+                      placeholder="Your message"></textarea>
+        </div>
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-primary">Send message</button>
+        </div>
+    </form>
 </div>
 <div class="container">
     <footer class="footer">
@@ -50,6 +89,5 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="scripts/getinfo.js"></script>
 </body>
 </html>

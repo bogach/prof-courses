@@ -8,11 +8,11 @@ $.getJSON('info.json', function (data) {
     const COL_NUM = 2;
     $.each(data.courses, function (index, course) {
         var difficulty = '';
-        for (i = 0; i < course.difficulty; i++) {
-            difficulty += '<span class="glyphicon glyphicon-star"></span>';
+        for (var i = 0; i < course.difficulty; i++) {
+            difficulty += '<span class="glyphicon glyphicon-star stars"></span>';
         }
         for (i = 0; i < 5 - course.difficulty; i++) {
-            difficulty += '<span class="glyphicon glyphicon-star-empty"></span>'
+            difficulty += '<span class="glyphicon glyphicon-star-empty stars"></span>'
         }
         var html = '';
         if (index % COL_NUM == 0) {
@@ -23,7 +23,7 @@ $.getJSON('info.json', function (data) {
             '<div class="cover"><img src="' + course.logo + '" alt="Course logo"></div>' +
             '<div class="caption">' +
             '<h4 class="pull-right"><span class="label label-default">' + course.category + '</span></h4>' +
-            '<h4><span class="glyphicon glyphicon-education" aria-hidden="true"></span> ' + course.title + '</h4>' +
+            '<h4><span class="glyphicon glyphicon-education education" aria-hidden="true"></span> ' + course.title + '</h4>' +
             '<hr>' +
             '<p>' + course.description + '</p>' +
             '<p>' + difficulty + ' Difficulty: ' + course.difficulty + '</p>' +
@@ -36,5 +36,5 @@ $.getJSON('info.json', function (data) {
         courses.push(html);
     });
     $(courses.join("")).appendTo("#courses");
-    $('<small>Last update: ' + data.update.substr(9) + '</small>').appendTo("#title")
+    $('<small>Last Updated ' + data.update.substr(9) + '</small>').appendTo("#title")
 });
