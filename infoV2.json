@@ -1,0 +1,45 @@
+{
+  "update": "13:05:59 17.09.2019",
+  "courses": [
+    {
+      "id": "StudyIntonationV2",
+      "title": "Study Intonation V2",
+      "description": "This course is for everyday discourse skills mastering. Starting with quite short phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech. Learn to produce intonation \"in tune\" when speaking.",
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
+      "size": 1489888,
+      "difficulty": 2,
+      "category": "Everyday discourse",
+      "version": "v1.2.1",
+      "sha2Hash": "08fceb6ab3fc08a979843621102085a2b478e1cf00720a57d0667167bcaba73b",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.2.1/StudyIntonationV2.zip",
+      "authors": [
+        "Natalia Bogach",
+        "Karina Vylegzhanina",
+        "Vadim Dyachkov",
+        "Anton Lamtev",
+        "Yurij Lezhenin"
+      ],
+      "releaseDate": "18.02.2017"
+    },
+    {
+      "id": "CrashCourseV2",
+      "title": "Crash Course V2",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/logo.png",
+      "size": 477072,
+      "difficulty": 1,
+      "category": "Example",
+      "version": "v1.2.1",
+      "sha2Hash": "ab19c62ce3458b844da0f74c027428fe52a7baa6d4f86c9b66286f40083653fc",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.2.1/CrashCourseV2.zip",
+      "authors": [
+        "Natalia Bogach",
+        "Karina Vylegzhanina",
+        "Vadim Dyachkov",
+        "Anton Lamtev",
+        "Yurij Lezhenin"
+      ],
+      "releaseDate": "18.02.2017"
+    }
+  ]
+}
