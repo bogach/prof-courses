@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "So, I came out",
+    "start": "00:279",
+    "stop": "01:103",
+    "catchword": false
+  },
+  {
+    "fragment": "feeling as though",
+    "start": "01:134",
+    "stop": "02:017",
+    "catchword": false
+  },
+  {
+    "fragment": "I wasted my time,",
+    "start": "02:243",
+    "stop": "03:587",
+    "catchword": true
+  },
+  {
+    "fragment": "to be honest.",
+    "start": "03:587",
+    "stop": "04:380",
+    "catchword": false
+  }
+]

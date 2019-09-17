@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "Oh, my!",
+    "start": "00:316",
+    "stop": "01:435",
+    "catchword": true
+  },
+  {
+    "fragment": "Such a",
+    "start": "01:540",
+    "stop": "01:885",
+    "catchword": false
+  },
+  {
+    "fragment": "wonderful thing!",
+    "start": "01:885",
+    "stop": "03:435",
+    "catchword": true
+  }
+]

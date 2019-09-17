@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "I think",
+    "start": "00:318",
+    "stop": "00:757",
+    "catchword": false
+  },
+  {
+    "fragment": "you were",
+    "start": "00:744",
+    "stop": "01:066",
+    "catchword": false
+  },
+  {
+    "fragment": "at my presentation",
+    "start": "01:255",
+    "stop": "02:106",
+    "catchword": true
+  },
+  {
+    "fragment": "yesterday",
+    "start": "02:106",
+    "stop": "02:648",
+    "catchword": false
+  },
+  {
+    "fragment": "weren't you?",
+    "start": "02:648",
+    "stop": "03:275",
+    "catchword": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "fragment": "I am",
+    "start": "00:142",
+    "stop": "00:424",
+    "catchword": false
+  },
+  {
+    "fragment": "glad",
+    "start": "00:427",
+    "stop": "01:104",
+    "catchword": true
+  },
+  {
+    "fragment": "that's really",
+    "start": "01:176",
+    "stop": "01:797",
+    "catchword": false
+  },
+  {
+    "fragment": "kind",
+    "start": "01:797",
+    "stop": "02:145",
+    "catchword": true
+  },
+  {
+    "fragment": "of you.",
+    "start": "02:145",
+    "stop": "02:572",
+    "catchword": false
+  },
+  {
+    "fragment": "Thank you!",
+    "start": "02:743",
+    "stop": "03:442",
+    "catchword": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "You know,",
+    "start": "00:329",
+    "stop": "00:804",
+    "catchword": false
+  },
+  {
+    "fragment": "I'm a great",
+    "start": "00:804",
+    "stop": "01:614",
+    "catchword": true
+  },
+  {
+    "fragment": "admirer of your work",
+    "start": "01:614",
+    "stop": "02:774",
+    "catchword": false
+  },
+  {
+    "fragment": "and the presentation",
+    "start": "02:774",
+    "stop": "03:841",
+    "catchword": false
+  },
+  {
+    "fragment": "really impressed me!",
+    "start": "03:841",
+    "stop": "05:086",
+    "catchword": true
+  }
+]

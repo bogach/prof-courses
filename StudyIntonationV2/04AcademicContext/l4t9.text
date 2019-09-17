@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "We were in the",
+    "start": "00:402",
+    "stop": "01:006",
+    "catchword": false
+  },
+  {
+    "fragment": "same workshop",
+    "start": "01:006",
+    "stop": "01:858",
+    "catchword": true
+  },
+  {
+    "fragment": "this morning.",
+    "start": "01:858",
+    "stop": "02:608",
+    "catchword": false
+  }
+]

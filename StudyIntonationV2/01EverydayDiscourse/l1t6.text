@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Good morning!",
+    "start": "00:337",
+    "stop": "01:007",
+    "catchword": true
+  },
+  {
+    "fragment": "Did you",
+    "start": "01:242",
+    "stop": "01:434",
+    "catchword": false
+  },
+  {
+    "fragment": "sleep",
+    "start": "01:434",
+    "stop": "01:638",
+    "catchword": true
+  },
+  {
+    "fragment": "well?",
+    "start": "01:640",
+    "stop": "02:000",
+    "catchword": false
+  }
+]

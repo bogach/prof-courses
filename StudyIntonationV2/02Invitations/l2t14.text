@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "That very kind of you",
+    "start": "00:313",
+    "stop": "02:101",
+    "catchword": false
+  },
+  {
+    "fragment": "but I don't think I",
+    "start": "02:043",
+    "stop": "03:145",
+    "catchword": false
+  },
+  {
+    "fragment": "can!",
+    "start": "03:316",
+    "stop": "03:611",
+    "catchword": true
+  }
+]

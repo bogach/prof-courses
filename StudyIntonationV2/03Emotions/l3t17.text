@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "I'm glad you",
+    "start": "00:604",
+    "stop": "01:350",
+    "catchword": false
+  },
+  {
+    "fragment": "liked it.",
+    "start": "01:350",
+    "stop": "02:083",
+    "catchword": true
+  }
+]

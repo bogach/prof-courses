@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "My topic",
+    "start": "00:570",
+    "stop": "01:255",
+    "catchword": true
+  },
+  {
+    "fragment": "today is...",
+    "start": "01:255",
+    "stop": "02:069",
+    "catchword": false
+  }
+]

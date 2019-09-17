@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Pleased",
+    "start": "00:035",
+    "stop": "00:341",
+    "catchword": true
+  },
+  {
+    "fragment": "to meet",
+    "start": "00:340",
+    "stop": "00:662",
+    "catchword": false
+  },
+  {
+    "fragment": "you,",
+    "start": "00:662",
+    "stop": "00:840",
+    "catchword": false
+  },
+  {
+    "fragment": "too.",
+    "start": "00:840",
+    "stop": "01:302",
+    "catchword": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "I wonder, if we could",
+    "start": "00:235",
+    "stop": "01:425",
+    "catchword": false
+  },
+  {
+    "fragment": "perhaps",
+    "start": "01:460",
+    "stop": "01:988",
+    "catchword": false
+  },
+  {
+    "fragment": "meet up",
+    "start": "02:363",
+    "stop": "02:914",
+    "catchword": true
+  },
+  {
+    "fragment": "later on",
+    "start": "02:914",
+    "stop": "03:489",
+    "catchword": false
+  },
+  {
+    "fragment": "to discuss...",
+    "start": "03:489",
+    "stop": "04:265",
+    "catchword": false
+  }
+]

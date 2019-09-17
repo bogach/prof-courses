@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "I'm",
+    "start": "00:096",
+    "stop": "00:276",
+    "catchword": false
+  },
+  {
+    "fragment": "sorry",
+    "start": "00:284",
+    "stop": "00:624",
+    "catchword": true
+  },
+  {
+    "fragment": "if I'm",
+    "start": "00:625",
+    "stop": "00:901",
+    "catchword": false
+  },
+  {
+    "fragment": "bothering",
+    "start": "00:901",
+    "stop": "01:300",
+    "catchword": true
+  },
+  {
+    "fragment": "you.",
+    "start": "01:300",
+    "stop": "01:464",
+    "catchword": false
+  }
+]

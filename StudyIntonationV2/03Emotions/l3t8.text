@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "It was",
+    "start": "00:282",
+    "stop": "00:840",
+    "catchword": false
+  },
+  {
+    "fragment": "fantastic,",
+    "start": "00:853",
+    "stop": "01:973",
+    "catchword": true
+  },
+  {
+    "fragment": "very inspirational,",
+    "start": "02:116",
+    "stop": "03:605",
+    "catchword": true
+  },
+  {
+    "fragment": "I've really",
+    "start": "03:605",
+    "stop": "04:832",
+    "catchword": true
+  },
+  {
+    "fragment": "enjoyed it!",
+    "start": "04:832",
+    "stop": "05:633",
+    "catchword": true
+  }
+]

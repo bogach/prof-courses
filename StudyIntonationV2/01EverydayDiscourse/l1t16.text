@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "I've had",
+    "start": "00:283",
+    "stop": "00:605",
+    "catchword": false
+  },
+  {
+    "fragment": "a lot",
+    "start": "00:607",
+    "stop": "01:083",
+    "catchword": true
+  },
+  {
+    "fragment": "to do.",
+    "start": "01:085",
+    "stop": "01:618",
+    "catchword": false
+  }
+]

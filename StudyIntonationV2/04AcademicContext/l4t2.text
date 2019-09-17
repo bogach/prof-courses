@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "What's your",
+    "start": "00:424",
+    "stop": "01:142",
+    "catchword": false
+  },
+  {
+    "fragment": "area",
+    "start": "01:142",
+    "stop": "01:621",
+    "catchword": true
+  },
+  {
+    "fragment": "of",
+    "start": "01:621",
+    "stop": "01:873",
+    "catchword": false
+  },
+  {
+    "fragment": "expertise?",
+    "start": "01:936",
+    "stop": "02:880",
+    "catchword": true
+  }
+]

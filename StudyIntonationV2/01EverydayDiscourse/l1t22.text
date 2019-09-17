@@ -1,0 +1,33 @@
+[
+  {
+    "fragment": "Have you had a",
+    "start": "00:035",
+    "stop": "00:479",
+    "catchword": false
+  },
+{
+    "fragment": "chance",
+    "start": "00:490",
+    "stop": "00:890",
+    "catchword": true
+  },
+{
+    "fragment": "to look around",
+    "start": "00:891",
+    "stop": "01:443",
+    "catchword": false
+  },
+{
+    "fragment": "the city",
+    "start": "01:393",
+    "stop": "01:780",
+    "catchword": true
+  },
+{
+    "fragment": "yet?",
+    "start": "01:782",
+    "stop": "02:072",
+    "catchword": false
+  }
+
+]

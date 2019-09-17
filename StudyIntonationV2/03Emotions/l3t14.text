@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "Good job!",
+    "start": "00:557",
+    "stop": "01:352",
+    "catchword": true
+  },
+  {
+    "fragment": "Congratulations!",
+    "start": "01:518",
+    "stop": "03:031",
+    "catchword": true
+  }
+]

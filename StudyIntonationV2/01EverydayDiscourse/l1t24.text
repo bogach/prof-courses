@@ -1,0 +1,50 @@
+[
+  {
+    "fragment": "I know",
+    "start": "00:203",
+    "stop": "00:711",
+    "catchword": true
+  },
+  {
+    "fragment": "we haven't",
+    "start": "00:714",
+    "stop": "01:109",
+    "catchword": false
+  },
+  {
+    "fragment": "met",
+    "start": "01:115",
+    "stop": "01:498",
+    "catchword": true
+  },
+  {
+    "fragment": "before",
+    "start": "01:509",
+    "stop": "01:994",
+    "catchword": true
+  },
+  {
+    "fragment": "but could I",
+    "start": "02:003",
+    "stop": "02:601",
+    "catchword": false
+  },
+  {
+    "fragment": "have a",
+    "start": "02:601",
+    "stop": "02:740",
+    "catchword": false
+  },
+  {
+    "fragment": "word",
+    "start": "02:752",
+    "stop": "03:109",
+    "catchword": true
+  },
+  {
+    "fragment": "with you, please?",
+    "start": "03:117",
+    "stop": "03:730",
+    "catchword": false
+  }
+]

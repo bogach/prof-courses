@@ -1,0 +1,44 @@
+[
+  {
+    "fragment": "I think",
+    "start": "00:160",
+    "stop": "00:972",
+    "catchword": true
+  },
+  {
+    "fragment": "we were",
+    "start": "00:972",
+    "stop": "01:404",
+    "catchword": false
+  },
+  {
+    "fragment": "at the same",
+    "start": "01:404",
+    "stop": "01:970",
+    "catchword": false
+  },
+  {
+    "fragment": "session yesterday,",
+    "start": "01:970",
+    "stop": "03:014",
+    "catchword": true
+  },
+  {
+    "fragment": "but we",
+    "start": "03:028",
+    "stop": "03:537",
+    "catchword": false
+  },
+  {
+    "fragment": "didn't have a chance",
+    "start": "03:537",
+    "stop": "04:319",
+    "catchword": false
+  },
+  {
+    "fragment": "to speak.",
+    "start": "04:319",
+    "stop": "04:897",
+    "catchword": false
+  }
+]

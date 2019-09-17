@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Thanks",
+    "start": "00:824",
+    "stop": "01:370",
+    "catchword": false
+  },
+  {
+    "fragment": "but I",
+    "start": "01:399",
+    "stop": "01:794",
+    "catchword": false
+  },
+  {
+    "fragment": "can't",
+    "start": "01:823",
+    "stop": "02:113",
+    "catchword": false
+  },
+  {
+    "fragment": "make it then",
+    "start": "02:125",
+    "stop": "02:902",
+    "catchword": true
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "id": "CrashCourse",
+  "title": "Crash Course",
+  "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+  "logo": "logo.png",
+  "difficulty": 1,
+  "category": "Example",
+  "authors": [
+    "Natalia Bogach",
+    "Karina Vylegzhanina",
+    "Vadim Dyachkov",
+    "Anton Lamtev",
+    "Yurij Lezhenin"
+  ],
+  "releaseDate": "18.02.2017",
+  "lessons": [
+    {
+      "id": "00001",
+      "title": "Разогрев",
+      "description": "Небольшая разминка перед началом курса",
+      "logo": "01/logo.png",
+      "duration": 10,
+      "tasks": [
+        {
+          "id": "00002",
+          "instructions": "Ой, да делай что хочешь!",
+          "text": "I'm going to talk about greatest ideas of computer science",
+          "sound": "01/01.mp3",
+          "pitch": "01/01.pitch",
+          "textMarkup": "01/01.text"
+        },
+        {
+          "id": "00003",
+          "instructions": "Теперь попробуй что-то другое...",
+          "text": "So computer science is not the same thing as ICT",
+          "sound": "01/02.mp3",
+          "pitch": "01/02.pitch",
+          "textMarkup": "01/02.text"
+        },
+        {
+          "id": "00004",
+          "instructions": "Повторяй интонацию за диктором и тогда сможешь через некоторое время научиться интонационному выделению в английском языке -- это просто пример длинных инстркуций, не всегда же удается объяснить все коротко. Пожалуй, что не всегда. Но если преподавателю есть что сказать, то зачем себя ограничивать? Незачем, это и так ясно, не буду больше об этом. Надеюсь увидеть даже это предложение в инструкциях к заданию",
+          "text": "It is not really even about programming",
+          "sound": "01/03.mp3",
+          "pitch": "01/03.pitch",
+          "textMarkup": "01/03.text"
+        }
+      ]
+    },
+    {
+      "id": "00005",
+      "title": "Тренировка интонации",
+      "description": "Пора взяться за дело",
+      "logo": "02/logo.png",
+      "duration": 15,
+      "tasks": [
+        {
+          "id": "00006",
+          "instructions": "Делай все как я говорю",
+          "text": "It is really about ideas that make computing possible",
+          "sound": "02/01.mp3",
+          "pitch": "02/01.pitch",
+          "textMarkup": "02/01.text"
+        },
+        {
+          "id": "00007",
+          "instructions": "Не сомневайся, просто доверься мне",
+          "text": "It is not really even about programming",
+          "sound": "02/02.mp3",
+          "pitch": "02/02.pitch",
+          "textMarkup": "02/02.text"
+        },
+        {
+          "id": "00008",
+          "instructions": "Повторяй интонацию за диктором и тогда сможешь через некоторое время научиться интонационному выделению в английском языке -- это просто пример длинных инстркуций, не всегда же удается объяснить все коротко. Пожалуй, что не всегда. Но если преподавателю есть что сказать, то зачем себя ограничивать? Незачем, это и так ясно, не буду больше об этом. Надеюсь увидеть даже это предложение в инструкциях к заданию",
+          "text": "So computer science is not the same thing as ICT",
+          "sound": "02/03.mp3",
+          "pitch": "02/03.pitch",
+          "textMarkup": "02/03.text"
+        }
+      ]
+    },
+    {
+      "id": "00009",
+      "title": "Берем вес",
+      "description": "Пришло время испытать триумф",
+      "logo": "03/logo.png",
+      "duration": 53,
+      "tasks": [
+        {
+          "id": "00010",
+          "instructions": "Делай на автомате, покажи мастерство",
+          "text": "It is really about ideas that make computing possible",
+          "sound": "03/01.mp3",
+          "pitch": "03/01.pitch",
+          "textMarkup": "03/01.text"
+        },
+        {
+          "id": "00011",
+          "instructions": "Не сомневайся, просто доверься мне",
+          "text": "So computer science is not the same thing as ICT",
+          "sound": "03/02.mp3",
+          "pitch": "03/02.pitch",
+          "textMarkup": "03/02.text"
+        },
+        {
+          "id": "00012",
+          "instructions": "Повторяй интонацию за диктором и тогда сможешь через некоторое время научиться интонационному выделению в английском языке -- это просто пример длинных инстркуций, не всегда же удается объяснить все коротко. Пожалуй, что не всегда. Но если преподавателю есть что сказать, то зачем себя ограничивать? Незачем, это и так ясно, не буду больше об этом. Надеюсь увидеть даже это предложение в инструкциях к заданию",
+          "text": "I'm going to talk about greatest ideas of computer science",
+          "sound": "03/03.mp3",
+          "pitch": "03/03.pitch",
+          "textMarkup": "03/03.text"
+        },
+        {
+          "id": "00013",
+          "instructions": "Повторяй интонацию за диктором и тогда сможешь через некоторое время научиться интонационному выделению в английском языке -- это просто пример длинных инстркуций, не всегда же удается объяснить все коротко. Пожалуй, что не всегда. Но если преподавателю есть что сказать, то зачем себя ограничивать? Незачем, это и так ясно, не буду больше об этом. Надеюсь увидеть даже это предложение в инструкциях к заданию",
+          "text": "It is not really even about programming",
+          "sound": "03/04.mp3",
+          "pitch": "03/04.pitch",
+          "textMarkup": "03/04.text"
+        }
+      ]
+    }
+  ]
+}

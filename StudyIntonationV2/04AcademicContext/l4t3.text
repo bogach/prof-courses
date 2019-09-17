@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "And I've got",
+    "start": "00:210",
+    "stop": "00:869",
+    "catchword": false
+  },
+  {
+    "fragment": "an abstract",
+    "start": "00:869",
+    "stop": "01:596",
+    "catchword": true
+  },
+  {
+    "fragment": "as well",
+    "start": "01:596",
+    "stop": "02:130",
+    "catchword": false
+  },
+  {
+    "fragment": "which you could have,",
+    "start": "02:130",
+    "stop": "03:095",
+    "catchword": false
+  },
+  {
+    "fragment": "if  that helps.",
+    "start": "03:140",
+    "stop": "03:901",
+    "catchword": true
+  }
+]

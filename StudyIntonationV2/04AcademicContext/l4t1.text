@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "How's",
+    "start": "00:361",
+    "stop": "00:618",
+    "catchword": false
+  },
+  {
+    "fragment": "the conference",
+    "start": "00:621",
+    "stop": "01:132",
+    "catchword": true
+  },
+  {
+    "fragment": "going for you?",
+    "start": "01:143",
+    "stop": "01:865",
+    "catchword": false
+  }
+]

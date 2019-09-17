@@ -1,0 +1,21 @@
+[{
+	"fragment": "It is really",
+	"start": "00:000",
+	"stop": "00:509",
+	"catchword": false
+}, {
+	"fragment": "about the",
+	"start": "00:509",
+	"stop": "00:987",
+	"catchword": false
+}, {
+	"fragment": "ideas",
+	"start": "00:987",
+	"stop": "02:100",
+	"catchword": true
+}, {
+	"fragment": "that make computing possible",
+	"start": "02:650",
+	"stop": "04:130",
+	"catchword": false
+}]

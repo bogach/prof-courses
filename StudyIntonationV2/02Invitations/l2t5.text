@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "How about going",
+    "start": "01:054",
+    "stop": "02:023",
+    "catchword": false
+  },
+  {
+    "fragment": "to the theatre tonight?",
+    "start": "02:023",
+    "stop": "03:239",
+    "catchword": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "I look for",
+    "start": "00:700",
+    "stop": "01:827",
+    "catchword": true
+  },
+  {
+    "fragment": "to it!",
+    "start": "00:836",
+    "stop": "01:402",
+    "catchword": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "I'd",
+    "start": "00:189",
+    "stop": "00:409",
+    "catchword": false
+  },
+  {
+    "fragment": "really",
+    "start": "00:412",
+    "stop": "00:902",
+    "catchword": true
+  },
+  {
+    "fragment": "appreciate",
+    "start": "00:903",
+    "stop": "01:538",
+    "catchword": true
+  },
+  {
+    "fragment": "that!",
+    "start": "01:538",
+    "stop": "01:930",
+    "catchword": false
+  }
+]

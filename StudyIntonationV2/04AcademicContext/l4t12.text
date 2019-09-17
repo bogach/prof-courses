@@ -1,0 +1,44 @@
+[
+  {
+    "fragment": "I'll be delighted",
+    "start": "00:124",
+    "stop": "01:163",
+    "catchword": true
+  },
+  {
+    "fragment": "because it's great",
+    "start": "01:163",
+    "stop": "01:865",
+    "catchword": true
+  },
+  {
+    "fragment": "to meet someone else",
+    "start": "01:865",
+    "stop": "02:779",
+    "catchword": false
+  },
+  {
+    "fragment": "who's interested",
+    "start": "01:779",
+    "stop": "03:657",
+    "catchword": true
+  },
+  {
+    "fragment": "in the same",
+    "start": "03:657",
+    "stop": "04:271",
+    "catchword": false
+  },
+  {
+    "fragment": "sort of issues",
+    "start": "04:271",
+    "stop": "05:046",
+    "catchword": false
+  },
+  {
+    "fragment": "that I am.",
+    "start": "05:046",
+    "stop": "05:773",
+    "catchword": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "That was",
+    "start": "00:262",
+    "stop": "00:584",
+    "catchword": false
+  },
+  {
+    "fragment": "useful!",
+    "start": "00:584",
+    "stop": "01:132",
+    "catchword": true
+  }
+]

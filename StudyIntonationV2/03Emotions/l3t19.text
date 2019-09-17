@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "In fact,",
+    "start": "00:587",
+    "stop": "01:367",
+    "catchword": false
+  },
+  {
+    "fragment": "the credit ",
+    "start": "01:610",
+    "stop": "02:252",
+    "catchword": true
+  },
+  {
+    "fragment": "should also",
+    "start": "02:252",
+    "stop": "02:828",
+    "catchword": true
+  },
+  {
+    "fragment": "go to my colleagues.",
+    "start": "02:828",
+    "stop": "03:951",
+    "catchword": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "Would you be interested in",
+    "start": "00:789",
+    "stop": "02:229",
+    "catchword": false
+  },
+  {
+    "fragment": "going to see an exhibition?",
+    "start": "02:235",
+    "stop": "03:689",
+    "catchword": true
+  }
+]

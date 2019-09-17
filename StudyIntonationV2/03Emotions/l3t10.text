@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "It's so",
+    "start": "00:419",
+    "stop": "00:952",
+    "catchword": false
+  },
+  {
+    "fragment": "nice",
+    "start": "00:952",
+    "stop": "01:466",
+    "catchword": true
+  },
+  {
+    "fragment": "isn't it?",
+    "start": "01:466",
+    "stop": "01:930",
+    "catchword": false
+  }
+]

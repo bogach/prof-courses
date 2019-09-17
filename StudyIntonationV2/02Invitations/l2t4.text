@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "Would don't you join us",
+    "start": "00:917",
+    "stop": "02:107",
+    "catchword": false
+  },
+  {
+    "fragment": "for a cup of coffee?",
+    "start": "02:122",
+    "stop": "03:111",
+    "catchword": true
+  }
+]

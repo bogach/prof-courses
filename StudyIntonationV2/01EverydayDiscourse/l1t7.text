@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Yes!",
+    "start": "00:328",
+    "stop": "00:877",
+    "catchword": true
+  },
+  {
+    "fragment": "Very well,",
+    "start": "00:879",
+    "stop": "01:295",
+    "catchword": false
+  },
+  {
+    "fragment": "thanks.",
+    "start": "01:347",
+    "stop": "01:921",
+    "catchword": true
+  },
+  {
+    "fragment": "And you?",
+    "start": "02:072",
+    "stop": "02:781",
+    "catchword": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "I thought",
+    "start": "00:394",
+    "stop": "00:823",
+    "catchword": false
+  },
+  {
+    "fragment": "there was quite a lot of",
+    "start": "00:823",
+    "stop": "01:525",
+    "catchword": false
+  },
+  {
+    "fragment": "stuff there",
+    "start": "01:534",
+    "stop": "02:169",
+    "catchword": true
+  },
+  {
+    "fragment": "that was",
+    "start": "02:169",
+    "stop": "02:403",
+    "catchword": false
+  },
+  {
+    "fragment": "irrelevant too.",
+    "start": "02:403",
+    "stop": "03:401",
+    "catchword": true
+  }
+]

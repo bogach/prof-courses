@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "How nice of you",
+    "start": "00:517",
+    "stop": "01:508",
+    "catchword": false
+  },
+  {
+    "fragment": "to say",
+    "start": "01:508",
+    "stop": "01:962",
+    "catchword": true
+  },
+  {
+    "fragment": "so!",
+    "start": "01:983",
+    "stop": "02:413",
+    "catchword": false
+  }
+]

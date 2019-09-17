@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "I am",
+    "start": "00:033",
+    "stop": "00:355",
+    "catchword": false
+  },
+  {
+    "fragment": "Sophie",
+    "start": "00:357",
+    "stop": "00:727",
+    "catchword": true
+  },
+  {
+    "fragment": "Johns",
+    "start": "00:729",
+    "stop": "01:321",
+    "catchword": true
+  }
+]

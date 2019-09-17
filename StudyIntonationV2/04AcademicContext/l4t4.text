@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "I'll go for the",
+    "start": "00:404",
+    "stop": "01:309",
+    "catchword": false
+  },
+  {
+    "fragment": "first method.",
+    "start": "01:397",
+    "stop": "02:359",
+    "catchword": true
+  }
+]

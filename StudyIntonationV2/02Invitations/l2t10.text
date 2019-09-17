@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "Thank you!",
+    "start": "00:380",
+    "stop": "01:074",
+    "catchword": true
+  },
+  {
+    "fragment": "That would be a",
+    "start": "01:341",
+    "stop": "01:950",
+    "catchword": false
+  },
+  {
+    "fragment": "pleasure!",
+    "start": "01:971",
+    "stop": "02:487",
+    "catchword": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "What's",
+    "start": "00:288",
+    "stop": "00:547",
+    "catchword": false
+  },
+  {
+    "fragment": "your interest",
+    "start": "00:547",
+    "stop": "01:221",
+    "catchword": true
+  },
+  {
+    "fragment": "in my field",
+    "start": "01:221",
+    "stop": "01:805",
+    "catchword": false
+  },
+  {
+    "fragment": "of work?",
+    "start": "01:805",
+    "stop": "02:381",
+    "catchword": false
+  }
+]

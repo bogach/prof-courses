@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "That's very kind of you!",
+    "start": "00:418",
+    "stop": "02:159",
+    "catchword": true
+  },
+  {
+    "fragment": "I'd",
+    "start": "02:290",
+    "stop": "02:406",
+    "catchword": false
+  },
+  {
+    "fragment": "love",
+    "start": "02:409",
+    "stop": "02:709",
+    "catchword": true
+  },
+  {
+    "fragment": "to come!",
+    "start": "02:710",
+    "stop": "03:196",
+    "catchword": false
+  }
+]
