@@ -8,6 +8,9 @@ script:
   - sudo apt-get update -y && sudo apt-get install -y wget curl jq unzip
   - chmod +x download_inspector.sh
   - . ./download_inspector.sh && download $GITHUB_DEPLOY_TOKEN
+    chmod +x gen_pitches.sh
+    # TODO: move to before_before deploy. Now inspector fails if there are no *.pitch files in courses
+    ./gen_pitches.sh
   - unzip inspector.zip
   - ./inspector/bin/inspector CrashCourse
   - ./inspector/bin/inspector StudyIntonation
@@ -28,3 +31,4 @@ deploy:
   skip_cleanup: true 
   on: 
     tags: true
+
