@@ -5,7 +5,7 @@ jdk:
   - oraclejdk8
     
 script:
-  - sudo apt-get update -y && sudo apt-get install -y wget curl jq unzip
+  - sudo apt-get update -y && sudo apt-get install -y wget curl jq unzip ffmpeg
   - chmod +x download_inspector.sh
   - . ./download_inspector.sh && download $GITHUB_DEPLOY_TOKEN
     chmod +x gen_pitches.sh
