@@ -2,19 +2,19 @@
   {
     "fragment": "It's",
     "start": "00:200",
-    "stop": "00:398",
+    "stop": "00:447",
     "catchword": false
   },
   {
     "fragment": "Julie,",
-    "start": "00:447",
-    "stop": "01:926",
+    "start": "00:453",
+    "stop": "00:950",
     "catchword": true
   },
   {
     "fragment": "isn't it?",
-    "start": "01:926",
-    "stop": "02:376",
+    "start": "01:150",
+    "stop": "01:540",
     "catchword": false
   }
 ]
