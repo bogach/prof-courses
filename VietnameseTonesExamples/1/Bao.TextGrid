@@ -1,0 +1,28 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.5734240362811791 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "mark_ups" 
+        xmin = 0 
+        xmax = 0.5734240362811791 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5734240362811791 
+            text = "bao" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "catch_words" 
+        xmin = 0 
+        xmax = 0.5734240362811791 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5734240362811791 
+            text = "true" 

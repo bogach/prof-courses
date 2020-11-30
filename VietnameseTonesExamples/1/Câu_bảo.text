@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "tôi đã",
+    "start": "0:0",
+    "stop": "0:231",
+    "catchword": "false"
+  },
+  {
+    "fragment": "bảo bạn",
+    "start": "0:231",
+    "stop": "0:597",
+    "catchword": "true"
+  },
+  {
+    "fragment": "rồi",
+    "start": "0:597",
+    "stop": "0:983",
+    "catchword": "false"
+  }
+]

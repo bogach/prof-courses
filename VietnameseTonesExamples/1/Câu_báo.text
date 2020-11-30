@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "tôi thường",
+    "start": "0:0",
+    "stop": "0:358",
+    "catchword": "false"
+  },
+  {
+    "fragment": "đọc báo",
+    "start": "0:358",
+    "stop": "0:776",
+    "catchword": "true"
+  },
+  {
+    "fragment": "vào buổi sáng",
+    "start": "0:776",
+    "stop": "1:514",
+    "catchword": "false"
+  }
+]

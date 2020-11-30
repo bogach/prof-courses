@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "anh ấy",
+    "start": "0:0",
+    "stop": "0:313",
+    "catchword": "false"
+  },
+  {
+    "fragment": "bạo dạn",
+    "start": "0:313",
+    "stop": "0:717",
+    "catchword": "true"
+  },
+  {
+    "fragment": "một mình ",
+    "start": "0:717",
+    "stop": "1:129",
+    "catchword": "false"
+  },
+  {
+    "fragment": "đi vào rừng",
+    "start": "1:129",
+    "stop": "1:88",
+    "catchword": "false"
+  }
+]

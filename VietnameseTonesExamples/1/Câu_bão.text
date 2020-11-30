@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "Việt Nam",
+    "start": "0:0",
+    "stop": "0:525",
+    "catchword": "false"
+  },
+  {
+    "fragment": "phải hứng chịu",
+    "start": "0:525",
+    "stop": "0:97",
+    "catchword": "false"
+  },
+  {
+    "fragment": "rất nhiều",
+    "start": "0:97",
+    "stop": "1:356",
+    "catchword": "false"
+  },
+  {
+    "fragment": "cơn bão",
+    "start": "1:356",
+    "stop": "1:751",
+    "catchword": "true"
+  },
+  {
+    "fragment": "trong một năm",
+    "start": "1:751",
+    "stop": "2:265",
+    "catchword": "false"
+  }
+]

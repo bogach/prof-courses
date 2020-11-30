@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "bánh bao",
+    "start": "0:0",
+    "stop": "0:506",
+    "catchword": "true"
+  },
+  {
+    "fragment": "rất phổ biến",
+    "start": "0:506",
+    "stop": "0:948",
+    "catchword": "false"
+  },
+  {
+    "fragment": "ở Việt nam",
+    "start": "0:948",
+    "stop": "1:61",
+    "catchword": "false"
+  }
+]

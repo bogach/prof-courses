@@ -1,0 +1,121 @@
+{
+    "id": "VietnameseTonesExamples",
+    "title": "Vietnamese Tones Examples",
+    "description": "Introduction to Vietnamese tones",
+    "logo": "logo.png",
+    "difficulty": 1,
+    "language": "vi-VN",
+    "category": "Example",
+    "authors": [
+        "Luu Xuan Son",
+        "Nguyen Van Nhi"
+    ],
+    "releaseDate": "30.11.2020",
+    "lessons": [
+        {
+            "id": "1",
+            "title": "Vienamese tones via syllable 'bao'",
+            "description": "Introduction to Vietnamese tones via syllable 'bao' in both word and sentence level",
+            "logo": "1/logo.jpg",
+            "duration": 1,
+            "tasks": [
+                {
+                    "id": "1",
+                    "instructions": "Vietnamese 'Ngang' tone in a single word",
+                    "text": "bao",
+                    "sound": "1/Bao.mp3",
+                    "pitch": "1/Bao.pitch",
+                    "textMarkup": "1/Bao.text"
+                },
+                {
+                    "id": "2",
+                    "instructions": "Vietnamese 'Huyền' tone in a single word",
+                    "text": "bào",
+                    "sound": "1/Bào.mp3",
+                    "pitch": "1/Bào.pitch",
+                    "textMarkup": "1/Bào.text"
+                },
+                {
+                    "id": "3",
+                    "instructions": "Vietnamese 'Sắc' tone in a single word",
+                    "text": "báo",
+                    "sound": "1/Báo.mp3",
+                    "pitch": "1/Báo.pitch",
+                    "textMarkup": "1/Báo.text"
+                },
+                {
+                    "id": "4",
+                    "instructions": "Vietnamese 'Nặng' tone in a single word",
+                    "text": "bạo",
+                    "sound": "1/Bạo.mp3",
+                    "pitch": "1/Bạo.pitch",
+                    "textMarkup": "1/Bạo.text"
+                },
+                {
+                    "id": "5",
+                    "instructions": "Vietnamese 'Hỏi' tone in a single word",
+                    "text": "bảo",
+                    "sound": "1/Bảo.mp3",
+                    "pitch": "1/Bảo.pitch",
+                    "textMarkup": "1/Bảo.text"
+                },
+                {
+                    "id": "6",
+                    "instructions": "Vietnamese 'Ngã' tone in a single word",
+                    "text": "bão",
+                    "sound": "1/Bão.mp3",
+                    "pitch": "1/Bão.pitch",
+                    "textMarkup": "1/Bão.text"
+                },
+                {
+                    "id": "7",
+                    "instructions": "Vietnamese 'Ngang' tone in a sentence",
+                    "text": "bánh bao rất phổ biến ở việt nam",
+                    "sound": "1/Câu_bao.mp3",
+                    "pitch": "1/Câu_bao.pitch",
+                    "textMarkup": "1/Câu_bao.text"
+                },
+                {
+                    "id": "8",
+                    "instructions": "Vietnamese 'Huyền' tone in a sentence",
+                    "text": "đá bào rất phù hợp cho mùa hè",
+                    "sound": "1/Câu_bào.mp3",
+                    "pitch": "1/Câu_bào.pitch",
+                    "textMarkup": "1/Câu_bào.text"
+                },
+                {
+                    "id": "9",
+                    "instructions": "Vietnamese 'Sắc' tone in a sentence",
+                    "text": "tôi thường đọc báo vào buổi sáng",
+                    "sound": "1/Câu_báo.mp3",
+                    "pitch": "1/Câu_báo.pitch",
+                    "textMarkup": "1/Câu_báo.text"
+                },
+                {
+                    "id": "10",
+                    "instructions": "Vietnamese 'Nặng' tone in a sentence",
+                    "text": "anh ấy bạo dạn một mình đi vào rừng",
+                    "sound": "1/Câu_bạo.mp3",
+                    "pitch": "1/Câu_bạo.pitch",
+                    "textMarkup": "1/Câu_bạo.text"
+                },
+                {
+                    "id": "11",
+                    "instructions": "Vietnamese 'Hỏi' tone in a sentence",
+                    "text": "tôi đã bảo bạn rồi",
+                    "sound": "1/Câu_bảo.mp3",
+                    "pitch": "1/Câu_bảo.pitch",
+                    "textMarkup": "1/Câu_bảo.text"
+                },
+                {
+                    "id": "12",
+                    "instructions": "Vietnamese 'Ngã' tone in a sentence",
+                    "text": "Việt Nam phải hứng chịu rất nhiều cơn bão trong một năm",
+                    "sound": "1/Câu_bão.mp3",
+                    "pitch": "1/Câu_bão.pitch",
+                    "textMarkup": "1/Câu_bão.text"
+                }
+            ]
+        }
+    ]
+}
