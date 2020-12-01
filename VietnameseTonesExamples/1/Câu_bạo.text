@@ -1,7 +1,7 @@
 [
   {
     "fragment": "anh ấy",
-    "start": "0:0",
+    "start": "0:000",
     "stop": "0:313",
     "catchword": "false"
   },
@@ -20,7 +20,7 @@
   {
     "fragment": "đi vào rừng",
     "start": "1:129",
-    "stop": "1:88",
+    "stop": "1:880",
     "catchword": "false"
   }
 ]

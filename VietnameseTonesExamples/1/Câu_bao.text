@@ -1,7 +1,7 @@
 [
   {
     "fragment": "bánh bao",
-    "start": "0:0",
+    "start": "0:000",
     "stop": "0:506",
     "catchword": "true"
   },
@@ -14,7 +14,7 @@
   {
     "fragment": "ở Việt nam",
     "start": "0:948",
-    "stop": "1:61",
+    "stop": "1:610",
     "catchword": "false"
   }
 ]

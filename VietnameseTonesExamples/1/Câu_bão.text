@@ -1,19 +1,19 @@
 [
   {
     "fragment": "Việt Nam",
-    "start": "0:0",
+    "start": "0:000",
     "stop": "0:525",
     "catchword": "false"
   },
   {
     "fragment": "phải hứng chịu",
     "start": "0:525",
-    "stop": "0:97",
+    "stop": "0:970",
     "catchword": "false"
   },
   {
     "fragment": "rất nhiều",
-    "start": "0:97",
+    "start": "0:970",
     "stop": "1:356",
     "catchword": "false"
   },
